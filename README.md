@@ -12,7 +12,7 @@
 https://gameamazon.net/
 
 Используемые технологии:
-HTML
+HTML;
 CSS
 
 Автор:
